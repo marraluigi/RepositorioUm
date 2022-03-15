@@ -1,1 +1,2 @@
 Esse aqui é o texto 3.
+Essa é a primeira alteração no texto 3.
